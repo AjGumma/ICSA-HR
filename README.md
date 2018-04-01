@@ -5,9 +5,9 @@ Any Help is appreciated. Busy with stuff but do raise issues if any of importanc
 
 It is a software built on :
 
-Legacy Python - 2.7.1.4
-Computer Vision Library - OPENCV 2.x and later
-GUI library - Tkinter
+Legacy Python - 2.7.1.4,
+Computer Vision Library - OPENCV 2.x and later,
+GUI library - Tkinter,
 Spreadsheet Writing library - XLRD at the moment, may use other functions if they achieve the same result.
 Cascades - HAAR and LBP. I prefer HAAR. Using pre-trained Classifiers.
 
