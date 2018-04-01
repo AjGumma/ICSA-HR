@@ -21,7 +21,7 @@ Objectives - The software basically does the following :
 3. Writes the results per frame/picture analysed to a spreadsheet with time of the picture.
 (XLRD should help me here is assumed.
 
-(I plan to use cascades and ML algos to label and identify and classify the person and his features and his emotions many ways come to mind VIOLA JONES, YOLO...)
+(I plan to use cascades and ML algos to label and identify and classify the person and the features and the emotions many ways come to mind VIOLA JONES, YOLO...)
 
 4. Calculates the mean emotion. 
 
