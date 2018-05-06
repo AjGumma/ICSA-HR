@@ -19,7 +19,7 @@ Objectives - The software basically does the following :
 2. Provides an analysis of the emotion of the person in each of the photos as : HAPPY, SAD, SURPRISED, ANGRY.
 
 3. Writes the results per frame/picture analysed to a spreadsheet with time of the picture.
-(XLRD should help me here is assumed.
+(XLRD should help me here is assumed.)
 
 (I plan to use cascades and ML algos to label and identify and classify the person and the features and the emotions many ways come to mind VIOLA JONES, YOLO...)
 
