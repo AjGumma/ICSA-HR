@@ -50,6 +50,6 @@ Need -
 * if all the above are met i plan to add aa hireability score and also a text to voice option that shall read out the result to the HR.(TTS) libs will come in handy.
 
 
-Any help is appreciated. Will commit and push initial design and files soon.
+Any additions are appreciated. Will commit and push initial design and files, ASAP.
 
 
