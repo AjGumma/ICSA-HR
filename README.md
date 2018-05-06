@@ -9,7 +9,7 @@ Legacy Python - 2.7.1.4,
 Computer Vision Library - OPENCV 2.x and later,
 GUI library - Tkinter,
 Spreadsheet Writing library - XLRD at the moment, may use other functions if they achieve the same result.
-Cascades - HAAR and LBP. I prefer HAAR. Using pre-trained Classifiers.
+Cascades - HAAR and LBP. I prefer HAAR. Using pre-trained Classifiers for the initial tests. Final RC will have Custom Trained Classifiers.
 
 Objectives - The software basically does the following :
 
